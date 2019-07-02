@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/controller/AjaxController.java=UTF-8
+encoding//src/controller/HomeController.java=UTF-8
+encoding//src/dao/JdbcUtil.java=UTF-8
+encoding//src/dao/NomalMemDao.java=UTF-8
+encoding//src/dao/jdbcUtil.java=UTF-8
+encoding//src/dao/messageDao.java=UTF-8
+encoding//src/service/NomalmemberMM.java=UTF-8
